@@ -1,0 +1,15 @@
+name = "BayesNet"
+uuid = "95ab2667-b05e-4de4-8b8c-d1d105c98e44"
+authors = ["stivenr "]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
+Lasso = "b4fcebef-c861-5a0f-a7e2-ba9dc32b180a"
+LassoPlot = "21d151f5-1f6d-55ec-8524-1c9aee35b0a4"
+MLDataUtils = "cc2ba9b6-d476-5e6d-8eaf-a92d5412d41d"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+SimpleWeightedGraphs = "47aef6b3-ad0c-573a-a1e2-d07658019622"
+StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
+Turing = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"
